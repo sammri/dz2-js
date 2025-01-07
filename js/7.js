@@ -1,3 +1,3 @@
-let str = prompt('целое число'); 
+let str = prompt('ціле число'); 
 let number = parseInt(str); 
 console.log(number);

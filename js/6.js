@@ -1,3 +1,4 @@
-let StringNumber = prompt('Введите число');
+
+let StringNumber = prompt('Введіть число');
 StringNumber = parseFloat(StringNumber);
 console.log(StringNumber);
